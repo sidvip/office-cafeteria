@@ -1,0 +1,28 @@
+.normal-class {
+    font-size: 22px;
+    color: black;
+}
+
+.heading-class {
+    font-size: 6.5vh;
+    color: rgb(241, 245, 184);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sub-heading-class {
+    font-size: 2.6vh;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.left-class {
+    float: left;
+}
+
+.right-class {
+    float: right;
+    position: relative;
+    right: 14vh;
+    top: 2vh;
+}

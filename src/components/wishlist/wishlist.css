@@ -1,0 +1,41 @@
+#wishlist table {
+    width: 100%;
+    opacity: 0.8;
+    text-align: center;
+    position: relative;
+    top: 0;
+}
+
+#wishlist table th {
+    font-size: 3.4vh;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(133, 219, 52);
+    width: 30%;
+    position: sticky;
+    top: 5vh;
+}
+
+#wishlist table td {
+    font-size: 2.5vh;
+    font-family: cursive;
+    background-color: rgb(24, 104, 224);
+    width: 30%;
+}
+
+.wishlist-head {
+    background-color: rgb(83, 78, 78) !important;
+    color: white;
+    font-size: 4vh !important;
+    position: sticky;
+    top: 0vh !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.quantity-entry {
+    width: 10%;
+    height:1.2vh;
+    text-align: center;
+    font-size: 2vh !important;
+}
+

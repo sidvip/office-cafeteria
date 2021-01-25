@@ -1,0 +1,37 @@
+#preview-pane {
+    width: 100%;
+}
+
+#preview-pane table {
+    width: 90%;
+    font-size: 2.5vh;
+    color: white;
+    font-family: cursive;
+    left: 4%;
+    position: relative;
+}
+
+#preview-pane table td {
+    width: 30%;
+}
+
+.closeButton {
+    float: right;
+    margin: 5px;
+    left: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 5px;
+    background: orange;
+    outline:none;
+    position: sticky;
+    top: 1vh;
+}
+
+.closeButton:hover {
+    transition: transform 1s ease-in-out;
+    transform: rotateZ(90deg);
+    background: grey;
+}
+

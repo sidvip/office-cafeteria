@@ -1,0 +1,170 @@
+:root {
+    --divs-height: 65vh;
+}
+
+#main-section {
+    background: inherit;
+    height: 84vh;
+    position: relative;
+}
+
+#form-section {
+    width: 70%;
+    left: 15%;
+    position: relative;
+    top: 0vh;
+}
+
+.form-controls {
+    width: 70%;
+    left: 15%;
+    height: 5vh;
+    top: 6vh;
+    position: absolute;
+    text-align: center;
+    background: inherit;
+    border: 2px rgb(92, 89, 89) groove;
+    box-shadow: 2px -2px 3px rgb(190, 175, 175);
+}
+
+.main-body {
+    height: var(--divs-height);
+    position: absolute;
+    top: 10vh;
+    width: 100%;
+}
+
+#underlay-div {
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    top: 10vh;
+    height: var(--divs-height);
+    border: 2px black groove;
+    box-shadow: 2px -2px 3px rgb(190, 175, 175);
+    background: lightskyblue;
+    border-radius: 15px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+.entry-button {
+    font-size: 3.2vh;
+    width: 50%;
+    height: inherit;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(120, 120, 248);
+    border: none;
+}
+
+.selected-control {
+    background-color: cyan;
+}
+
+.entry-button:hover {
+    background-color: rgb(146, 245, 245);
+    border: 1px solid black;
+}
+
+
+.protect-div {
+    position: relative;
+    top: 1vh;
+    height: 84vh;
+    box-shadow: inset 0 0 0 50vh rgba(232, 235, 221, 0.8);
+    filter: blur(3px);
+    z-index: 2;
+}
+
+
+#main-process-div {
+    width: 100%;
+    height: inherit;
+    position: absolute;
+    top: 0px;
+}
+
+.login-member {
+    width: 100%;
+    position: relative;
+    height: 6vh;
+}
+
+.select-item {
+    margin-top: 1vh;
+    height: 30vh;
+    overflow: auto;
+    padding: 0px 10px 10px 10px;
+}
+
+
+#preview-parent {
+    width: 80%;
+    left: 10%;
+    top: 10vh;
+    height: 50vh;
+    padding: 10px;
+    overflow: auto;
+    position: absolute;
+    z-index: 50;
+    background-color: rgb(129, 46, 129, 0.95);
+    border-radius: 5%;
+    box-shadow: 2.5px -2.5px 3px black;
+    display: none;
+}
+
+#preview-parent::-webkit-scrollbar {
+    display: none;
+}
+
+.order-item {
+    margin-top: 2vh;
+    height: 24vh;
+    overflow: auto;
+    padding: 0px 10px 10px 10px;
+}
+
+.circular-button {
+    border: 1px solid black;
+    width: 2vh;
+    outline: none;
+    height: 2vh;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: lightgrey;
+    box-shadow: -1px -1px 2px black;
+    cursor: pointer;
+    margin: 15px 15px 10px 0px;
+    left: 50%;
+}
+
+.button-color {
+    background-color: grey;
+}
+
+#order-wishlist-nav {
+    position: relative;
+    background-color: rgb(214, 193, 193);
+    opacity: 0.8;
+}
+
+#nav-div {
+    width: 4%;
+    text-align: center;
+    left: 48%;
+    position: relative;
+}
+
+.bottom-div {
+    height: 10vh;
+    overflow: auto;
+    padding: 10px;
+    background-color: rgb(9, 10, 10, 0.8);
+    opacity: 0.9;
+    color: white;
+    font-size: 3.5vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

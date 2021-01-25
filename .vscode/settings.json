@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#292c19",
+        "activityBarBadge.background": "#cc4545ea",
+        "activityBar.foreground": "#00d2f7",
+        "activityBar.border": "#818f30",
+        "tab.activeForeground": "#8b8638",
+        "tab.unfocusedActiveForeground": "#d10966f5",
+        "tab.hoverBackground": "#225757b7",
+        "tab.inactiveForeground": "#e70cb1",
+        "tab.border": "#887133",
+        "sideBar.background": "#252524",
+        "sideBar.foreground": "#73e02a",
+        "editor.selectionBackground": "#2c335c",
+        "gitlens.trailingLineForegroundColor": "#afab87",
+        "editorLineNumber.foreground": "#56da19",
+        "editorLineNumber.activeForeground": "#d4e213"
+    }
+}

@@ -1,0 +1,43 @@
+#menu-div {
+    text-align: center;
+}
+
+#menu-div table {
+    width: 100%;
+    opacity: 0.75;
+}
+
+#menu-div table th {
+    font-size: 3.2vh;
+    background-color: rgb(140, 231, 55);
+    width: 30%;
+    position: sticky;
+    top: 4.5vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#menu-div table td {
+    width: 30%;
+    font-size: 2.5vh;
+    padding: 1vh;
+    background-color: rgb(110, 248, 168);
+    font-family: cursive;
+}
+
+
+input[type="checkbox"] {
+    width: 3.2vh;
+    height: 3.2vh;
+    cursor: pointer;
+}
+
+.grid-heading {
+    font-size: 3vh;
+    font-weight: bold;
+    position: sticky;
+    top: 0vh !important;
+    background-color: black !important;
+    color: white;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}

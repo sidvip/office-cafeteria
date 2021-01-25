@@ -1,0 +1,19 @@
+{
+  "short_name": "Coffee Cafeteria",
+  "name": "Coffee Cafeteria",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "16X16 24X24 32X32 64x64 192X192 256X256",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}

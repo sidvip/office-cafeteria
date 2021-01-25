@@ -1,0 +1,5 @@
+.header-class {
+    height: 14vh;
+    background:radial-gradient(rgb(146, 24, 24), rgb(48, 45, 45), brown);
+    position: relative;
+}

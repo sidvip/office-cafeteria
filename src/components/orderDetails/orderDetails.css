@@ -1,0 +1,13 @@
+#order-details table{
+    width:100%;
+    text-align: left;
+}
+
+#order-details table td {
+    font-family: cursive;
+    font-size: 2.2vh;
+    background-color:lightcyan;
+    color: black;
+    width: 50%;
+    padding:2px;
+}

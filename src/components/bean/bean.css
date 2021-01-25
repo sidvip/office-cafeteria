@@ -1,0 +1,61 @@
+.bean-img {
+    width:65px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+    /* animation: beansAnim infinite ease-in-out 1.5s; */
+}
+
+@keyframes beansAnim {
+    0% {
+        transform: rotateZ(0deg);
+    }
+    50% {
+        transform: rotateZ(2.5deg) scale(1.01) translate(1px, 1px);
+    }
+    100% {
+        transform: rotateZ(5deg) scale(1.02) translate(1.5px, 1.5px);
+    }
+}
+
+#bean-1 {
+    left: 0vh;
+    top: 4vh;
+}
+
+#bean-2 {
+    left: 5vh;
+    top: 3vh;
+}
+
+#bean-3 {
+    left: 10vh;
+    top: 5vh;
+}
+
+#bean-4 {
+    left: 8vh;
+    top: 7vh;
+}
+
+#bean-5 {
+    left: 2vh;
+    top: 7vh;
+}
+
+#bean-6 {
+    left: 20vh;
+    top: 7vh;
+}
+
+#bean-7 {
+    left: 14vh;
+    top: 7vh;
+}
+
+
+#bean-8 {
+    left: 17vh;
+    top: 8vh;
+}

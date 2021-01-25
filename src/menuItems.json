@@ -1,0 +1,59 @@
+{
+    "Beverages": [
+        {"Coffee": 70},
+        {"Lemonade": 120},
+        {"Iced Tea": 65},
+        {"Hot Chocolate": 80},
+        {"Milk Shake": 110},
+        {"Wine": 750}
+    ],
+    "Special Offerings": [
+        {"AFFOGATO": 175},
+        {"ESPRESSO AMERICANO": 150},
+        {"CAFFÈ LATTE": 120},
+        {"CAPPUCCINO": 95},
+        {"DOUBLE ESPRESSO": 185},
+        {"CAFÈ AU LAIT": 123}
+    ],
+    "Desserts and Sweets": [
+        {"Almond Cookie (4 Pieces)": 60},
+        {"Danish pastry": 78},
+        {"Cheese Cake": 105},
+        {"Hot Fudge Sundae": 87},
+        {"Pancakes (2 Pieces)": 45},
+        {"Vanilla Puddings": 68},
+        {"Vanilla Icecream": 75},
+        {"Chocolate Icecream": 98},
+        {"Butter Scotch Icecream": 78}
+    ],
+    "Starters": [
+        {"Shannon Dougherty": 185},
+        {"Puff Daddy": 145},
+        {"Roasted Corns": 135},
+        {"Kakori Kebabs": 155},
+        {"Chicken Satay": 250},
+        {"Tangri Kebabs": 225},
+        {"Microwave Paneer Tikkas": 256},
+        {"Macaroni and Cheese": 190},
+        {"Veg Cheese Burger": 85},
+        {"Casseroles": 88}
+    ],
+    "Main Course": [
+        {"Plain Dosa": 45},
+        {"Masala Dosa": 55},
+        {"Cheese Paneer Dosa": 80},
+        {"Plain Naan": 35},
+        {"Butter Naan": 45},
+        {"Normal Chapati": 15},
+        {"Butter Chapati": 20},
+        {"Shahi Paneer": 250},
+        {"Palak Paneer": 300},
+        {"Kadai Paneer": 280},
+        {"Butter Chicken": 300},
+        {"Aloo Paratha": 48},
+        {"Mix Veg": 185},
+        {"Mix Daal": 220},
+        {"Idli and Sambhar": 80}
+    ]
+
+}

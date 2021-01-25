@@ -1,0 +1,27 @@
+#place-order table {
+    width: 100%;
+}
+
+#place-order table td {
+    font-size: 2.8vh;
+    width: 40%;
+    font-family: cursive;
+    float: left;
+}
+
+.pc-button {
+    width:18%;
+    height: 4vh;
+    font-weight: bold;
+    background-color:greenyellow;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: cursive !important;
+    font-size: 2vh !important;
+    outline: none;
+    box-shadow: 2px -2px 3px white;
+}
+
+.pc-button:hover{
+    background-color:rgb(13, 209, 13);
+}

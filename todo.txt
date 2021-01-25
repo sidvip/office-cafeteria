@@ -1,0 +1,2 @@
+Disable the scroll and wheel event of wishlist input
+disable PlaceOrder Button after Payment
